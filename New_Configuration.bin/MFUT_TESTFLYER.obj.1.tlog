@@ -1,0 +1,9 @@
+#"C:\Program Files (x86)\Micro Focus\Visual COBOL\bin64\cobol.exe" "C:\Users\Public\Documents\Micro Focus\Visual COBOL\Samples\mfunit-eclipse\features\MFUT_TESTFLYER.cbl" DELINT "USEC:\Users\Public\Documents\Micro Focus\Visual COBOL\Samples\mfunit-eclipse\features\New_Configuration.bin\mfant15731151063641821681.dir" ;
+^"C:\Users\Public\Documents\Micro Focus\Visual COBOL\Samples\mfunit-eclipse\features\MFUT_TESTFLYER.cbl"
+!"C:\Users\Public\Documents\Micro Focus\Visual COBOL\Samples\mfunit-eclipse\features\mfunit.cpy"
+?"C:\Users\Public\Documents\Micro Focus\Visual COBOL\Samples\mfunit-eclipse\features\mfunit.cpy"
+!$COBCPY\mfunit.cpy
++"C:\Program Files (x86)\Micro Focus\Visual COBOL\cpylib\mfunit.cpy"
+-"C:\Program Files (x86)\Micro Focus\Visual COBOL\cpylib\mfunit.cpy"
+!"C:\Users\Public\Documents\Micro Focus\Visual COBOL\Samples\mfunit-eclipse\features\GetFlyerLevel.cpy"
++"C:\Users\Public\Documents\Micro Focus\Visual COBOL\Samples\mfunit-eclipse\features\GetFlyerLevel.cpy"

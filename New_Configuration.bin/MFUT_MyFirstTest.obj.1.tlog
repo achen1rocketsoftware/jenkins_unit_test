@@ -1,0 +1,16 @@
+#"C:\Program Files (x86)\Micro Focus\Visual COBOL\bin64\cobol.exe" "C:\Users\Public\Documents\Micro Focus\Visual COBOL\Samples\mfunit-eclipse\features\MFUT_MyFirstTest.cbl" DELINT "USEC:\Users\Public\Documents\Micro Focus\Visual COBOL\Samples\mfunit-eclipse\features\New_Configuration.bin\mfant2965298702660480850.dir" ;
+^"C:\Users\Public\Documents\Micro Focus\Visual COBOL\Samples\mfunit-eclipse\features\MFUT_MyFirstTest.cbl"
+!"C:\Users\Public\Documents\Micro Focus\Visual COBOL\Samples\mfunit-eclipse\features\mfunit_prototypes.cpy"
+?"C:\Users\Public\Documents\Micro Focus\Visual COBOL\Samples\mfunit-eclipse\features\mfunit_prototypes.cpy"
+!$COBCPY\mfunit_prototypes.cpy
++"C:\Program Files (x86)\Micro Focus\Visual COBOL\cpylib\mfunit_prototypes.cpy"
+!"C:\Users\Public\Documents\Micro Focus\Visual COBOL\Samples\mfunit-eclipse\features\mfunit.cpy"
+?"C:\Users\Public\Documents\Micro Focus\Visual COBOL\Samples\mfunit-eclipse\features\mfunit.cpy"
+!$COBCPY\mfunit.cpy
++"C:\Program Files (x86)\Micro Focus\Visual COBOL\cpylib\mfunit.cpy"
+-"C:\Program Files (x86)\Micro Focus\Visual COBOL\cpylib\mfunit.cpy"
+-"C:\Program Files (x86)\Micro Focus\Visual COBOL\cpylib\mfunit_prototypes.cpy"
+!"C:\Users\Public\Documents\Micro Focus\Visual COBOL\Samples\mfunit-eclipse\features\mfunit.cpy"
+?"C:\Users\Public\Documents\Micro Focus\Visual COBOL\Samples\mfunit-eclipse\features\mfunit.cpy"
+!$COBCPY\mfunit.cpy
++"C:\Program Files (x86)\Micro Focus\Visual COBOL\cpylib\mfunit.cpy"

@@ -1,0 +1,8 @@
+<project name="MyProject" default="default" basedir=".">
+	<property name="eclipseConfigDir" value="New_Configuration.bin" />
+    <target name="default">
+        <echo>Copying datafiles to ${eclipseConfigDir} </echo>
+    	<copy file="FrequentFlyer.csv" todir="${eclipseConfigDir}" />
+    	<copy file="TestCustomers.dat" todir="${eclipseConfigDir}" />
+    </target>
+</project>

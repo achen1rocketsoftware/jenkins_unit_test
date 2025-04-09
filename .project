@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>MFUnitExamples</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.microfocus.eclipse.project.cobolBuilder</name>
+			<arguments>
+				<dictionary>
+					<key>mf.buildThreadCount</key>
+					<value>1</value>
+				</dictionary>
+				<dictionary>
+					<key>mf.settingsDir</key>
+					<value>.settings</value>
+				</dictionary>
+				<dictionary>
+					<key>mf.useDirectiveSet</key>
+					<value>true</value>
+				</dictionary>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>com.microfocus.eclipse.mfunit.core.mfUnitBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.microfocus.eclipse.project.cobolNature</nature>
+		<nature>com.microfocus.eclipse.mfunit.core.mfUnitNature</nature>
+	</natures>
+</projectDescription>

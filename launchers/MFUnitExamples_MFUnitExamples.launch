@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.microfocus.eclipse.mfunit.cobolUnitTestTabGroupType">
+    <booleanAttribute key="CodeCoverage_Accumulate" value="false"/>
+    <booleanAttribute key="CodeCoverage_Enabled" value="false"/>
+    <stringAttribute key="CodeCoverage_EnvVar" value="TESTCOVER"/>
+    <stringAttribute key="CodeCoverage_ResultsFolder" value="Coverage"/>
+    <booleanAttribute key="Profiler_Enabled" value="false"/>
+    <stringAttribute key="Profiler_LogFolder" value="Profiler"/>
+    <stringAttribute key="buildConfiguration" value=""/>
+    <stringAttribute key="cfgBlockName" value="New_Configuration.bin\MFUnitExamples.mfgcf"/>
+    <mapAttribute key="cobol-switches"/>
+    <stringAttribute key="editorDebugger" value="com.microfocus.eclipse.editor.cobol.CobolEditor"/>
+    <stringAttribute key="envScriptParameters" value=""/>
+    <stringAttribute key="envScriptPath" value=""/>
+    <booleanAttribute key="inheritBuildEnv" value="false"/>
+    <booleanAttribute key="is64BitProcess" value="true"/>
+    <booleanAttribute key="isProgramExternalFile" value="false"/>
+    <booleanAttribute key="isProgramInProject" value="false"/>
+    <stringAttribute key="launch_container_type" value="traditional"/>
+    <stringAttribute key="launch_ctf_config_contents" value=""/>
+    <stringAttribute key="launch_ctf_config_name" value=""/>
+    <booleanAttribute key="launch_ctf_enablement" value="false"/>
+    <booleanAttribute key="launch_remote_daemon" value="true"/>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/MFUnitExamples"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="4"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.debug.core.appendEnvironmentVariables" value="true"/>
+    <mapAttribute key="org.eclipse.debug.core.environmentVariables">
+        <mapEntry key="DD_CUSTOMERS" value="TestCustomers.dat"/>
+        <mapEntry key="MFUT_ENV_PASS" value="PASS"/>
+    </mapAttribute>
+    <stringAttribute key="process_factory_id" value="com.microfocus.eclipse.launch.core.process.ProcessFactory"/>
+    <stringAttribute key="projectName" value="MFUnitExamples"/>
+    <stringAttribute key="remote_DISPLAY" value=""/>
+    <stringAttribute key="remote_daemon_port" value=""/>
+    <booleanAttribute key="remote_daemon_port_enabled" value="false"/>
+    <stringAttribute key="remote_host" value=""/>
+    <stringAttribute key="remote_host_alias_name" value=""/>
+    <mapAttribute key="rts-switches">
+        <mapEntry key="A1" value="on"/>
+        <mapEntry key="D0" value="off"/>
+        <mapEntry key="F0" value="on"/>
+        <mapEntry key="I2" value="off"/>
+        <mapEntry key="O0" value="on"/>
+        <mapEntry key="S5" value="off"/>
+    </mapAttribute>
+    <booleanAttribute key="suspend.at.each.test" value="false"/>
+    <booleanAttribute key="suspend.at.first.test" value="false"/>
+    <stringAttribute key="testCases" value=""/>
+    <mapAttribute key="tunables">
+        <mapEntry key="default_cancel_mode" value="2"/>
+        <mapEntry key="screen_cols" value="80"/>
+        <mapEntry key="screen_lines" value="25"/>
+    </mapAttribute>
+    <booleanAttribute key="use_x_server" value="true"/>
+    <stringAttribute key="workingDirectory" value=""/>
+</launchConfiguration>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="..\XSLT\Overview.xslt" type="text/xsl"?>
+<sample>
+  <name>Micro Focus Unit Testing Framework (MFUnit) Examples</name>
+  <contents>
+    <content linkto="overview">Overview</content>
+    <content linkto="howToRun">How to Run this Demonstration</content>
+  </contents>
+  <overview>
+    <heading>Overview</heading>
+    <directory>Samples\mfunit-eclipse</directory>
+    <description>This set of examples demonstrates some of the capabilities of Micro Focus Unit Testing Framework.
+                 See the topic "Micro Focus Unit Testing Framework" in the Documentation included with this product.
+    </description>
+  </overview>
+  <howToRun>
+    <heading>How to Run the Demonstration</heading>
+    <steps>
+      <step>
+      	<description>How to Run the Demonstration in the Visual COBOL or Enterprise Developer IDE</description>
+      	<steps>
+      	 <step>File -> Import -> Existing project into workspace</step>
+      	 <step>Run -> Run As -> COBOL Unit Test</step>
+      	</steps>
+      </step>
+    </steps>
+  </howToRun>
+</sample>
