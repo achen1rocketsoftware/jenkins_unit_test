@@ -1,0 +1,26 @@
+<project>
+<taskdef name="mfurun" classname="com.microfocus.mfunit.ant.MFURunMFUTask" />
+    <condition property="src" else=".">
+        <isset property="src"/>
+    </condition>
+
+    <echo>Source directory = ${src}</echo>
+
+    <mfurun dir="${src}"
+     printsummary="true"
+     junitresults="true"
+     junitreportpackage="com.mycompany.testcases">
+         <fileset dir="${src}" includes="*.mfu" />
+    </mfurun>
+
+    <property environment="env"/>
+    <mkdir dir="report"/>
+    
+    <junitreport todir="report">
+     <fileset dir=".">
+           <include name="TEST-*.xml"/>
+     </fileset>
+     <report format="frames" styledir="${env.ANT_HOME}/etc" todir="report"/>
+    </junitreport>
+
+</project>

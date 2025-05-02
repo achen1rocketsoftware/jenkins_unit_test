@@ -92,12 +92,12 @@
 		<file name="ExtraFixtureArguments.cbl" objlist="ExtraFixtureArguments.objlist"/>
 		<file name="GetFlyerLevel.cbl" objlist="GetFlyerLevel.objlist"/>
 		<file name="GlobalMetaData.cbl" objlist="GlobalMetaData.objlist"/>
-		<file name="MFUTASCI.cbl" objlist="MFUTASCI.objlist"/>
+
 		<file name="MFUT_DATECHK.cbl" objlist="MFUT_DATECHK.objlist"/>
 		<file name="MFUT_DD_FILE.cbl" objlist="MFUT_DD_FILE.objlist"/>
 		<file name="MFUT_ENV.cbl" objlist="MFUT_ENV.objlist"/>
 		<file name="MFUT_FileExample.cbl" objlist="MFUT_FileExample.objlist"/>
-		<file name="MFUT_MyFirstFail.cbl" objlist="MFUT_MyFirstFail.objlist"/>
+
 		<file name="MFUT_MyFirstTest.cbl" objlist="MFUT_MyFirstTest.objlist"/>
 		<file name="MFUT_TCOVER.cbl" objlist="MFUT_TCOVER.objlist"/>
 		<file name="MFUT_TESTFLYER.cbl" objlist="MFUT_TESTFLYER.objlist"/>
@@ -124,12 +124,12 @@
 		<file name="ExtraFixtureArguments${mf.objext}" objlist="ExtraFixtureArguments.objlist"/>
 		<file name="GetFlyerLevel${mf.objext}" objlist="GetFlyerLevel.objlist"/>
 		<file name="GlobalMetaData${mf.objext}" objlist="GlobalMetaData.objlist"/>
-		<file name="MFUTASCI${mf.objext}" objlist="MFUTASCI.objlist"/>
+
 		<file name="MFUT_DATECHK${mf.objext}" objlist="MFUT_DATECHK.objlist"/>
 		<file name="MFUT_DD_FILE${mf.objext}" objlist="MFUT_DD_FILE.objlist"/>
 		<file name="MFUT_ENV${mf.objext}" objlist="MFUT_ENV.objlist"/>
 		<file name="MFUT_FileExample${mf.objext}" objlist="MFUT_FileExample.objlist"/>
-		<file name="MFUT_MyFirstFail${mf.objext}" objlist="MFUT_MyFirstFail.objlist"/>
+
 		<file name="MFUT_MyFirstTest${mf.objext}" objlist="MFUT_MyFirstTest.objlist"/>
 		<file name="MFUT_TCOVER${mf.objext}" objlist="MFUT_TCOVER.objlist"/>
 		<file name="MFUT_TESTFLYER${mf.objext}" objlist="MFUT_TESTFLYER.objlist"/>
