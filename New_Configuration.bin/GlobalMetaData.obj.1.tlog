@@ -1,4 +1,10 @@
-#"C:\Program Files (x86)\Micro Focus\Visual COBOL\bin64\cobol.exe" C:\Users\Administrator\Documents\mfunit-eclipse\features\GlobalMetaData.cbl DELINT USEC:\Users\Administrator\Documents\mfunit-eclipse\features\New_Configuration.bin\mfant6905918037084382640.dir ;
+#"C:\Program Files (x86)\Micro Focus\Visual COBOL\bin64\cobol.exe" C:\Users\Administrator\Documents\mfunit-eclipse\features\GlobalMetaData.cbl DELINT USEC:\Users\Administrator\Documents\mfunit-eclipse\features\New_Configuration.bin\mfant9510424102072411958.dir ;
+^C:\Users\Administrator\Documents\mfunit-eclipse\features\GlobalMetaData.cbl
+!C:\Users\Administrator\Documents\mfunit-eclipse\features\mfunit.cpy
+?C:\Users\Administrator\Documents\mfunit-eclipse\features\mfunit.cpy
+!$COBCPY\mfunit.cpy
++"C:\Program Files (x86)\Micro Focus\Visual COBOL\cpylib\mfunit.cpy"
+#"C:\Program Files (x86)\Micro Focus\Visual COBOL\bin64\cobol.exe" C:\Users\Administrator\Documents\mfunit-eclipse\features\GlobalMetaData.cbl DELINT USEC:\Users\Administrator\Documents\mfunit-eclipse\features\New_Configuration.bin\mfant9203577548194227028.dir ;
 ^C:\Users\Administrator\Documents\mfunit-eclipse\features\GlobalMetaData.cbl
 !C:\Users\Administrator\Documents\mfunit-eclipse\features\mfunit.cpy
 ?C:\Users\Administrator\Documents\mfunit-eclipse\features\mfunit.cpy
