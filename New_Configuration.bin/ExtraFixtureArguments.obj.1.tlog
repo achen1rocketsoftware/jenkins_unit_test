@@ -1,10 +1,4 @@
-#"C:\Program Files (x86)\Micro Focus\Visual COBOL\bin64\cobol.exe" C:\Users\Administrator\Documents\mfunit-eclipse\features\ExtraFixtureArguments.cbl DELINT USEC:\Users\Administrator\Documents\mfunit-eclipse\features\New_Configuration.bin\mfant12294463952636466638.dir ;
-^C:\Users\Administrator\Documents\mfunit-eclipse\features\ExtraFixtureArguments.cbl
-!C:\Users\Administrator\Documents\mfunit-eclipse\features\mfunit.cpy
-?C:\Users\Administrator\Documents\mfunit-eclipse\features\mfunit.cpy
-!$COBCPY\mfunit.cpy
-+"C:\Program Files (x86)\Micro Focus\Visual COBOL\cpylib\mfunit.cpy"
-#"C:\Program Files (x86)\Micro Focus\Visual COBOL\bin64\cobol.exe" C:\Users\Administrator\Documents\mfunit-eclipse\features\ExtraFixtureArguments.cbl DELINT USEC:\Users\Administrator\Documents\mfunit-eclipse\features\New_Configuration.bin\mfant16832550997000566876.dir ;
+#"C:\Program Files (x86)\Micro Focus\Visual COBOL\bin64\cobol.exe" C:\Users\Administrator\Documents\mfunit-eclipse\features\ExtraFixtureArguments.cbl DELINT USEC:\Users\Administrator\Documents\mfunit-eclipse\features\New_Configuration.bin\mfant4631210720940303157.dir ;
 ^C:\Users\Administrator\Documents\mfunit-eclipse\features\ExtraFixtureArguments.cbl
 !C:\Users\Administrator\Documents\mfunit-eclipse\features\mfunit.cpy
 ?C:\Users\Administrator\Documents\mfunit-eclipse\features\mfunit.cpy
